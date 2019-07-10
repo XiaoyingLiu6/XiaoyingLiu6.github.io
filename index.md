@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+**Xiaoying Liu**, Associate Professor (Tenure Track)
 
-You can use the [editor on GitHub](https://github.com/XiaoyingLiu6/XiaoyingLiu6.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+11/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
 
-### Markdown
+E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+09/2009-06/2013, Nanjing University of Science and Technology, Bachelor of Information Engineering
 
-# Header 1
-## Header 2
-### Header 3
+09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Advisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/)
 
-- Bulleted
-- List
+## Research areas
 
-1. Numbered
-2. List
+Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Communication, Cognitive Radio Networks
 
-**Bold** and _Italic_ and `Code` text
+## Services
+Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, IEEE Access, and so on.
 
-[Link](url) and ![Image](src)
-```
+## Honors and rewards
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Awarded Outstanding graduates of Shanghai Jiao Tong University  (上海交通大学优秀毕业生) in 2018
 
-### Jekyll Themes
+Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XiaoyingLiu6/XiaoyingLiu6.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
 
-### Support or Contact
+Awarded Outstanding graduates of Nanjing University of Science and Technology  (南京理工大学优秀毕业生) in 2013
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Awarded The First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010
+
+## Publication
+
+(J1) **X. Liu**, K. Zheng, L. Fu, X.-Y. Liu, X. Wang, and G. Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**
+
+(J2) **X. Liu**, K. Zheng, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. **(CCF-A)**
+
+(J3) **X. Liu**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network Connectivity with Inhomogeneous Correlated Mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.1536-1276, Jun. 2016. **(CCF-B)**
+
+(J4) **X. Liu**, K. Zheng, J. Zhao, X.-Y. Liu, X. Wang, and X. Di, [Information-Centric Networks with Correlated Mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.
+
+(J5) **X. Liu**, K. Zheng, X.-Y. Liu, X. Wang, and G. Dai, [Towards Secure and Energy-Efficient CRNs via Embracing Interference: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
+
+(J6) K. Zheng, X.-Y. Liu, **X. Liu**, and Y. Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, to appear in 2019. **(CCF-B)** (Corresponding author)
+
+(J7) K. Zheng, J. Zhang, **X. Liu**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
+
+(J8) K. Zheng, Y. Cui, **X. Liu**, X. Wang, X. Jiang, and J. Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
+
+## Master and PHD students
+
+Juan Sun (2019, PhD student, joint supervised by Prof. Chi)
+
+Luming Jia (2019, Master student, joint supervised by Prof. Zhu)
