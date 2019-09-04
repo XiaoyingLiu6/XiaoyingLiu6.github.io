@@ -43,7 +43,7 @@ Awarded The First Prize of Mathematics Competition for College Students of Jiang
 
 (J5) **X. Liu**, K. Zheng, X.-Y. Liu, X. Wang, and G. Dai, [Towards Secure and Energy-Efficient CRNs via Embracing Interference: A Stochastic Geometry Approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
 
-(J6) K. Zheng, X.-Y. Liu, **X. Liu**, and Y. Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, to appear in 2019. **(CCF-B)** (Corresponding author)
+(J6) K. Zheng, X.-Y. Liu, **X. Liu**, and Y. Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, July 2019. **(CCF-B)** (Corresponding author)
 
 (J7) K. Zheng, J. Zhang, **X. Liu**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
 
