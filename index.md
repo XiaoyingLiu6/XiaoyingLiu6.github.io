@@ -20,7 +20,7 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 TPC for IEEE ICC'20 - MWN Symposium
 
-Reviewers for IEEE/ACM Transactions on Networking, IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Vehicular Technology, and so on.
+Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, and so on.
 
 ## Honors and rewards
 
@@ -28,11 +28,15 @@ Awarded Outstanding graduates of Shanghai Jiao Tong University  (上海交通大
 
 Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
 
-Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛) in 2014
-
 Awarded Outstanding graduates of Nanjing University of Science and Technology  (南京理工大学优秀毕业生) in 2013
 
-Awarded The First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛三等奖) in 2014
+
+First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010
+
+## Project
+
+Project "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC 
 
 ## Publication
 
