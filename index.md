@@ -1,4 +1,4 @@
-<img src="2.jpg" width="120" height="170"/> 
+<img src="2.jpg" width="100" height="142"/> 
 
 **Xiaoying Liu**, Associate Professor
 
