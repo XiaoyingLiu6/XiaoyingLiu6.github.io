@@ -36,7 +36,7 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 
 ## Project
 
-Project "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC 
+Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000
 
 ## Publication
 
@@ -52,11 +52,11 @@ Project "Energy-Saving Mechanisms for Secure Transmission in Internet of Things"
 
 (J6) K. Zheng, X.-Y. Liu, **X. Liu**, and Y. Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, July 2019. **(CCF-B)** (Corresponding author)
 
-(J7) K. Zheng, J. Zhang, **X. Liu**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
+(J7) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)** (Corresponding author)
 
-(J8) K. Zheng, Y. Cui, **X. Liu**, X. Wang, X. Jiang, and J. Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
+(J8) K. Zheng, J. Zhang, **X. Liu**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
 
-(J9) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)** (Corresponding author)
+(J9) K. Zheng, Y. Cui, **X. Liu**, X. Wang, X. Jiang, and J. Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
 
 ## Master and PHD students
 
