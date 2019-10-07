@@ -56,6 +56,8 @@ Project "Energy-Saving Mechanisms for Secure Transmission in Internet of Things"
 
 (J8) K. Zheng, Y. Cui, **X. Liu**, X. Wang, X. Jiang, and J. Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
 
+(J9) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)** (Corresponding author)
+
 ## Master and PHD students
 
 Juan Sun (2019, PhD student, joint supervised by Prof. Chi)
