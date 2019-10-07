@@ -36,7 +36,7 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 
 ## Project
 
-Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000
+Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.
 
 ## Publication
 
