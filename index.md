@@ -2,7 +2,7 @@
 
 **Xiaoying Liu**, Associate Professor
 
-11/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
+[School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China
 
@@ -12,7 +12,7 @@ E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com
 
 09/2009-06/2013, Nanjing University of Science and Technology, Bachelor of Information Engineering
 
-09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Advisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/)
+09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Supervisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/)
 
 ## Research areas
 
