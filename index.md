@@ -1,4 +1,4 @@
-<img src="2.jpg" width="70" height="85"/>  **Xiaoying Liu**, Associate Professor
+<img src="2.jpg" width="120" height="170"/>  **Xiaoying Liu**, Associate Professor
 
 11/2018-till now, [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
