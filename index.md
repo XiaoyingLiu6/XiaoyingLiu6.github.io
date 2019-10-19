@@ -24,18 +24,6 @@ TPC for IEEE ICC'20 - MWN Symposium
 
 Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, and so on.
 
-## Honors and rewards
-
-Awarded Outstanding graduates of Shanghai Jiao Tong University  (上海交通大学优秀毕业生) in 2018
-
-Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
-
-Awarded Outstanding graduates of Nanjing University of Science and Technology  (南京理工大学优秀毕业生) in 2013
-
-Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛三等奖) in 2014
-
-First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010
-
 ## Project
 
 Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.
@@ -54,11 +42,23 @@ Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Intern
 
 (J6) K. Zheng, X.-Y. Liu, **X. Liu**, and Y. Zhu, [Hybrid Overlay-Underlay Cognitive Radio Networks with Energy Harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, July 2019. **(CCF-B)** (Corresponding author)
 
-(J7) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and K. Liu, Total throughput maximization of cooperative cognitive radio networks with energy harvesting, to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)** (Corresponding author)
+(J7) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), to appear in **IEEE Transactions on Wireless Communications**. **(CCF-B)** (Corresponding author)
 
 (J8) K. Zheng, J. Zhang, **X. Liu**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
 
 (J9) K. Zheng, Y. Cui, **X. Liu**, X. Wang, X. Jiang, and J. Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
+
+## Honors and rewards
+
+Awarded Outstanding graduates of Shanghai Jiao Tong University  (上海交通大学优秀毕业生) in 2018
+
+Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016
+
+Awarded Outstanding graduates of Nanjing University of Science and Technology  (南京理工大学优秀毕业生) in 2013
+
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛三等奖) in 2014
+
+First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010
 
 ## Master and PHD students
 
