@@ -1,6 +1,6 @@
 <img src="2.jpg" width="100" height="142"/> 
 
-**Xiaoying Liu**, Associate Professor
+**Xiaoying Liu**, Associate Professor（校聘副教授）
 
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
