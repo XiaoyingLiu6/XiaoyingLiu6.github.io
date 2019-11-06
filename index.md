@@ -20,7 +20,7 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 ## Services
 
-TPC for IEEE ICC'20 - MWN Symposium
+TPC member for IEEE ICC'20 - MWN Symposium
 
 Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, and so on.
 
@@ -32,7 +32,7 @@ Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Intern
 
 (J1) **X. Liu**, K. Zheng, L. Fu, X.-Y. Liu, X. Wang, and G. Dai, [Energy Efficiency of Secure Cognitive Radio Networks with Cooperative Spectrum Sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**
 
-(J2) **X. Liu**, K. Zheng, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, to appear in 2019. **(CCF-A)**
+(J2) **X. Liu**, K. Zheng, X.-Y. Liu, X. Wang, and Y. Zhu, [Hierarchical Cooperation Improves Delay in Cognitive Radio Networks with Mobile Secondary Nodes](https://ieeexplore.ieee.org/document/8570778), **IEEE Transactions on Mobile Computing**, vol. 18, no. 12, pp. 2871-2884, Dec. 2019. **(CCF-A)**
 
 (J3) **X. Liu**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network Connectivity with Inhomogeneous Correlated Mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.1536-1276, Jun. 2016. **(CCF-B)**
 
