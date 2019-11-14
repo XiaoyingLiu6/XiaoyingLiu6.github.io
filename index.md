@@ -20,13 +20,15 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 ## Services
 
-TPC member for IEEE ICC'20 - MWN Symposium
+TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)
 
 Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, and so on.
 
 ## Project
 
 Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.
+
+Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
 
 ## Publication
 
@@ -59,6 +61,10 @@ Awarded Outstanding graduates of Nanjing University of Science and Technology  (
 Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛三等奖) in 2014
 
 First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010
+
+## Teaching
+
+212579 现代网络技术及应用
 
 ## Master and PHD students
 
