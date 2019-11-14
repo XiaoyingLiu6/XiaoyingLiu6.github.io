@@ -22,7 +22,7 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)
 
-Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, and so on.
+Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
 ## Project
 
