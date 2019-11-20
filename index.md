@@ -12,7 +12,7 @@ E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com
 
 09/2009-06/2013, Nanjing University of Science and Technology, Bachelor of Information Engineering
 
-09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Supervisor: [Prof. Xinbing Wang](http://iwct.sjtu.edu.cn/Personal/xwang8/)
+09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Supervisor: [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/)
 
 ## Research areas
 
