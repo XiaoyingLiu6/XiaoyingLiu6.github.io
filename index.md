@@ -68,6 +68,6 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 
 ## Master and PHD students
 
-Juan Sun (2019, PhD student, joint supervised by Prof. Chi)
+Juan Sun (2019, PhD student, co-advised with Prof. Chi)
 
-Luming Jia (2019, Master student, joint supervised by Prof. Zhu)
+Luming Jia (2019, Master student, co-advised with Prof. Zhu)
