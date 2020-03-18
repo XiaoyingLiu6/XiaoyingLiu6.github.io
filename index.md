@@ -22,6 +22,10 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)
 
+Member of China Computer Federation
+
+Member of IEEE
+
 Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
 ## Project
@@ -49,6 +53,8 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J8) K. Zheng, J. Zhang, **X. Liu**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy Capacity Scaling of Large-Scale Networks with Social Relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.
 
 (J9) K. Zheng, Y. Cui, **X. Liu**, X. Wang, X. Jiang, and J. Tian, [Asymptotic Analysis of Inhomogeneous Information-Centric Wireless Networks with Infrastructure Support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
+
+(J10) S. Gong, **X. Liu**, K. Zheng, X. Tian, Y. Zhu, Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks, to appear in **IET Communications**, 2020. (CCF-C)
 
 ## Honors and rewards
 
