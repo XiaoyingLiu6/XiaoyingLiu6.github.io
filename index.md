@@ -54,7 +54,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 (J10) S. Gong, **X. Liu**, K. Zheng, X. Tian, Y. Zhu, Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks, to appear in **IET Communications**, 2020. (CCF-C)
 
-(J11) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and Y. Li, Impact of Battery Charging on Spectrum Sensing of CRN with Energy Harvesting, to appear in **IEEE Transactions on Vehicular Technology**, 2020.  (Corresponding author)
+(J11) K. Zheng, **X. Liu**, Y. Zhu, K. Chi, and Y. Li, Impact of battery charging on spectrum sensing of CRN with energy harvesting, to appear in **IEEE Transactions on Vehicular Technology**, 2020.  (Corresponding author)
 
 ## Honors and rewards
 
