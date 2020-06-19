@@ -1,6 +1,6 @@
 <img src="2.jpg" width="100" height="142"/> 
 
-**Xiaoying Liu**, Associate Professor（校聘副教授）
+**Xiaoying Liu**, Associate Professor（校聘副教授）, Master Supervisor
 
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/) 
 
@@ -70,7 +70,9 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 
 ## Teaching
 
-212579 现代网络技术及应用
+212579 现代网络技术及应用  (2020)
+
+G126026 Fundamentals of Electronics  (2020)
 
 ## Master and PHD students
 
