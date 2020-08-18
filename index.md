@@ -42,7 +42,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 (J4) **X. Liu**, K. Zheng, J. Zhao, X.-Y. Liu, X. Wang, and X. Di, [Information-centric networks with correlated mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.
 
-(J5) **X. Liu**, K. Zheng, K. Chi, and Y. Zhu, Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks, to appear in **IEEE Transactions on Wireless Communications**, 2020. (CCF-B)
+(J5) **X. Liu**, K. Zheng, K. Chi, and Y. Zhu, Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks, to appear in **IEEE Transactions on Wireless Communications**, DOI:10.1109/TWC.2020.3015260 **(CCF-B)**
 
 (J6) **X. Liu**, K. Zheng, X.-Y. Liu, X. Wang, and G. Dai, [Towards secure and energy-efficient CRNs via embracing interference: A stochastic geometry approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.
 
