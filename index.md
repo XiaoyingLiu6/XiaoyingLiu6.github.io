@@ -50,11 +50,9 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 
 ## Teaching
 
-212510 现代网络技术及应用  (2020)  
+212579 现代网络技术及应用  (2020)  
 G126026 Fundamentals of Electronics  (2020)
 
-## Master and PHD students
-
-Juan Sun (2019, PhD student, co-advised with Prof. Kaikai Chi)  
-Luming Jia (2019, Master student, co-advised with Prof. Yi-hua Zhu)  
+## Master students
+ 
 Zhongwei Lin (2020, Master student, co-advised with Prof. Yi-hua Zhu)  
