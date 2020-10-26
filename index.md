@@ -37,8 +37,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J8) K. Zheng, **<span style="color: blue">X. Liu</span>**, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), **IEEE Transactions on Wireless Communications**, vol. 19, no. 1, pp. 533-546, Jan. 2020. **(CCF-B)(Corresponding author)**  
 (J9) K. Zheng, **<span style="color: blue">X. Liu</span>**, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020. **(Corresponding author)**  
 (J10) K. Zheng, J. Zhang, **<span style="color: blue">X. Liu</span>**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy capacity scaling of large-scale networks with social relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.  
-(J11) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.
-
+(J11) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.  
 (J12) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**  
 
 ## Honors and rewards
@@ -59,3 +58,5 @@ G126026 Fundamentals of Electronics  (2020)
 Aodi Wang (2020, Master student)
 
 Zhongwei Lin (2020, Master student, co-advised with Prof. Yi-hua Zhu)  
+
+Bin Xu (2020, Master student, co-advised with Prof. Kechen Zheng)  
