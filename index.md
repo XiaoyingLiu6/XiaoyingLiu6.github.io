@@ -55,8 +55,6 @@ G126026 Fundamentals of Electronics  (2020)
 
 ## Master students
 
-Aodi Wang (2020, Master student)
-
-Zhongwei Lin (2020, Master student, co-advised with Prof. Yi-hua Zhu)  
-
+Aodi Wang (2020, Master student)  
+Zhongwei Lin (2020, Master student, co-advised with Prof. Yi-hua Zhu)    
 Bin Xu (2020, Master student, co-advised with Prof. Kechen Zheng)  
