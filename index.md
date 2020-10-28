@@ -4,6 +4,7 @@
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)  
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com  
+Corresponding links of mine: [Homepage in Chinese](http://www.cs.zjut.edu.cn/jsp/userread.jsp?id=460); [IEEE](https://ieeexplore.ieee.org/author/37085797210)
 
 ## Education
 
