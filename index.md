@@ -4,7 +4,7 @@
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)  
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com  
-Corresponding links of mine: [Homepage in Chinese](http://www.cs.zjut.edu.cn/jsp/userread.jsp?id=460); [IEEE](https://ieeexplore.ieee.org/author/37085797210)
+Corresponding links of mine: [Homepage in Chinese](http://www.cs.zjut.edu.cn/jsp/userread.jsp?id=460); [IEEE](https://ieeexplore.ieee.org/author/37085797210); [ORCID](https://orcid.org/0000-0002-4592-0631)  
 
 ## Education
 
@@ -39,7 +39,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J7) K. Zheng, X.-Y. Liu, **<span style="color: blue">X. Liu</span>**, and Y. Zhu, [Hybrid overlay-underlay cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8695113), **IEEE Transactions on Communications**, vol. 67, no. 7, pp. 4669-4682, July 2019. **(CCF-B)(Corresponding author)**  
 (J8) K. Zheng, **<span style="color: blue">X. Liu</span>**, Y. Zhu, K. Chi, and K. Liu, [Total throughput maximization of cooperative cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/8874991), **IEEE Transactions on Wireless Communications**, vol. 19, no. 1, pp. 533-546, Jan. 2020. **(CCF-B)(Corresponding author)**  
 (J9) K. Zheng, **<span style="color: blue">X. Liu</span>**, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020. **(Corresponding author)**  
-(J10) K. Zheng, **<span style="color: blue">X. Liu</span>**, B. Wang, H. Zheng, K. Chi, and Y. Yao, Throughput maximization of wireless-powered communication networks: An energy threshold approach, **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021. **(Corresponding author)**      
+(J10) K. Zheng, **<span style="color: blue">X. Liu</span>**, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021. **(Corresponding author)**      
 (J11) K. Zheng, J. Zhang, **<span style="color: blue">X. Liu</span>**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy capacity scaling of large-scale networks with social relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.  
 (J12) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.  
 (J13) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**  
