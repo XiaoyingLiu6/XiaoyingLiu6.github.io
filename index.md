@@ -21,14 +21,14 @@ TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)
 Member of China Computer Federation, Member of IEEE  
 Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
-## Project
+## Projects
 
 Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
 No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things, ¥ 100,000, 1/7.     
 No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things, ¥ 100,000, 2/7.     
 Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
 
-## Publication
+## Publications
 
 **First author/Corresponding author:**
 
@@ -43,7 +43,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J2) **<span style="color: blue">X. Liu</span>**, K. Zheng, J. Zhao, X.-Y. Liu, X. Wang, and X. Di, [Information-centric networks with correlated mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.  
 (J1) **<span style="color: blue">X. Liu</span>**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network connectivity with inhomogeneous correlated mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.1536-1276, Jun. 2016. **(CCF-B)**  
 
-**Other publication:**
+**Other publications:**
 
 (J3) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J2) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.   
