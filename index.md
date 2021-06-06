@@ -45,6 +45,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Other publications:**
 
+(J4) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, W. Lu, Y. Zhu, TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks, **IET Communications**, to appear in 2021. **(CCF-C)**  
 (J3) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ieeexplore.ieee.org/document/9146003), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J2) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.   
 (J1) K. Zheng, J. Zhang, **<span style="color: blue">X. Liu</span>**, L. Fu, X. Wang, X. Jiang, and W. Zhang, [Secrecy capacity scaling of large-scale networks with social relationships](https://ieeexplore.ieee.org/document/7496960), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 3, pp. 2688-2702, Mar. 2017.    
