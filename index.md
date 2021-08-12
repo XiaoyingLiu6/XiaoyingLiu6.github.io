@@ -32,6 +32,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **First author/Corresponding author:**
 
+(C1) W. Sun,  **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, **NaNA**, to appear in 2021. (Corresponding author)  
 (J10) K. Zheng, **<span style="color: blue">X. Liu</span>**, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021. (Corresponding author)    
 (J9) **<span style="color: blue">X. Liu</span>**, K. Zheng, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**     
 (J8) K. Zheng, **<span style="color: blue">X. Liu</span>**, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020. (Corresponding author)  
@@ -44,8 +45,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J1) **<span style="color: blue">X. Liu</span>**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network connectivity with inhomogeneous correlated mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.1536-1276, Jun. 2016. **(CCF-B)**  
 
 **Other publications:**
-
-(C1) W. Sun,  **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, **NaNA**, to appear in 2021.  
+   
 (J4) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, W. Lu, and Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, to appear in 2021. **(CCF-C)**  
 (J3) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J2) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.   
