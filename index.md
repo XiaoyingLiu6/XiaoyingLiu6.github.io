@@ -66,7 +66,7 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 212579 现代网络技术及应用  (2020-2021)  
 G126026 Fundamentals of Electronics  (2020-2021)
 
-## Master students
+## Students
 
 Chenxi Qian (2018, Master student, co-advised with Prof. Yi-hua Zhu)  
 Yufan Zhang (2019, PhD student, co-advised with Prof. Yi-hua Zhu)  
