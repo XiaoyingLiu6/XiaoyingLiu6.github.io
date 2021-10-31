@@ -34,7 +34,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 **First author/Corresponding author:**
 
 (C2) **<span style="color: blue">X. Liu</span>**, H. Zheng, K. Zheng, and P. Hu, Optimal transmission strategy for solar harvesting communication, in International Conference on Wireless Communications and Signal Processing (**WCSP**), to appear in 2021.  
-(C1) W. Sun,  **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, in International Conference on Networking and Network Applications (**NaNA**), to appear in 2021. (Corresponding author)  
+(C1) W. Sun,  **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Xu, and J. Liu, Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting, in International Conference on Networking and Network Applications (**NaNA**), to appear in 2021. (Corresponding author, **Best Paper Award**)  
 (J10) K. Zheng, **<span style="color: blue">X. Liu</span>**, B. Wang, H. Zheng, K. Chi, and Y. Yao, [Throughput maximization of wireless-powered communication networks: An energy threshold approach](https://ieeexplore.ieee.org/document/9319536), **IEEE Transactions on Vehicular Technology**, vol. 70, no. 2, pp. 1292-1306, Feb. 2021. (Corresponding author)    
 (J9) **<span style="color: blue">X. Liu</span>**, K. Zheng, K. Chi, and Y. Zhu, [Cooperative spectrum sensing optimization in energy-harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9170532), **IEEE Transactions on Wireless Communications**, vol. 19, no. 11, pp. 7663-7676, Nov. 2020. **(CCF-B)**     
 (J8) K. Zheng, **<span style="color: blue">X. Liu</span>**, Y. Zhu, K. Chi, and Y. Li, [Impact of battery charging on spectrum sensing of CRN with energy harvesting](https://ieeexplore.ieee.org/document/9091209), **IEEE Transactions on Vehicular Technology**, vol. 69, no. 7, pp. 7545-7557, Jul. 2020. (Corresponding author)  
@@ -55,6 +55,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 ## Honors and rewards
 
+Best Paper Award in International Conference on Networking and Network Applications 2021  
 Awarded Outstanding graduates of Shanghai Jiao Tong University  (上海交通大学优秀毕业生) in 2018  
 Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016  
 Awarded Outstanding graduates of Nanjing University of Science and Technology  (南京理工大学优秀毕业生) in 2013  
