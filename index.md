@@ -17,6 +17,7 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 ## Services
 
+TPC member for IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
 TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
 Chair of Session 5: Age-of-Information for MobiHoc 2021  
 Member of China Computer Federation, Member of IEEE  
