@@ -45,7 +45,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J4) **<span style="color: blue">X. Liu</span>**, K. Zheng, L. Fu, X.-Y. Liu, X. Wang, and G. Dai, [Energy efficiency of secure cognitive radio networks with cooperative spectrum sharing](https://ieeexplore.ieee.org/document/8362946), **IEEE Transactions on Mobile Computing**, vol. 18, no. 2, pp. 305-318, Feb. 2019. **(CCF-A)**  
 (J3) **<span style="color: blue">X. Liu</span>**, K. Zheng, X.-Y. Liu, X. Wang, and G. Dai, [Towards secure and energy-efficient CRNs via embracing interference: A stochastic geometry approach](https://ieeexplore.ieee.org/document/8402212), **IEEE Access**, vol. 6, no. 1, pp. 36757-36770, July 2018.  
 (J2) **<span style="color: blue">X. Liu</span>**, K. Zheng, J. Zhao, X.-Y. Liu, X. Wang, and X. Di, [Information-centric networks with correlated mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.  
-(J1) **<span style="color: blue">X. Liu</span>**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network connectivity with inhomogeneous correlated mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.1536-1276, Jun. 2016. **(CCF-B)**  
+(J1) **<span style="color: blue">X. Liu</span>**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network connectivity with inhomogeneous correlated mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.4307-4320, Jun. 2016. **(CCF-B)**  
 
 **Other publications:**
    
