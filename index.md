@@ -49,6 +49,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Other publications:**
    
+(J5) Y. Lei, J. Yu, S. Chan, W. Wu, and **<span style="color: blue">X. Liu</span>**, SNLRUX++ for building extraction from high-resoultion remote sensing images, to appear in **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2022.  
 (J4) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, W. Lu, and Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**    
 (J3) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, and Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
 (J2) K. Zheng, Y. Cui, **<span style="color: blue">X. Liu</span>**, X. Wang, X. Jiang, and J. Tian, [Asymptotic analysis of inhomogeneous information-centric wireless networks with infrastructure support](https://ieeexplore.ieee.org/document/8304646), **IEEE Transactions on Vehicular Technology**, vol. 67, no. 6, pp. 5245-5259, Jun. 2018.   
