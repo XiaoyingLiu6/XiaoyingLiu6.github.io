@@ -48,7 +48,8 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J1) **<span style="color: blue">X. Liu</span>**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network connectivity with inhomogeneous correlated mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.4307-4320, Jun. 2016. **(CCF-B)**  
 
 **Other publications:**
-   
+
+(J6) K. Zheng, H. Ge, K. Chi, and **<span style="color: blue">X. Liu</span>**, Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands, to appear in **Computer Networks**, 2022. **(CCF-B)**    
 (J5) Y. Lei, J. Yu, S. Chan, W. Wu, and **<span style="color: blue">X. Liu</span>**, SNLRUX++ for building extraction from high-resoultion remote sensing images, to appear in **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2022.  
 (J4) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, W. Lu, and Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**    
 (J3) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, and Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
