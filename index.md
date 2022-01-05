@@ -49,7 +49,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Other publications:**
 
-(J6) K. Zheng, H. Ge, K. Chi, and **<span style="color: blue">X. Liu</span>**, Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands, to appear in **Computer Networks**, 2022. **(CCF-B)**    
+(J6) K. Zheng, H. Ge, K. Chi, and **<span style="color: blue">X. Liu</span>**, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), to appear in **Computer Networks**, 2022. **(CCF-B)**    
 (J5) Y. Lei, J. Yu, S. Chan, W. Wu, and **<span style="color: blue">X. Liu</span>**, [SNLRUX++ for building extraction from high-resolution remote sensing images](https://ieeexplore.ieee.org/document/9652051),  **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, vol. 15, pp. 409-421, Dec. 2021.  
 (J4) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, W. Lu, and Y. Zhu, [TDMA scheduling schemes targeting high channel utilization for energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12243), **IET Communications**, vol. 15, no. 16, pp. 2097-2110, Oct. 2021. **(CCF-C)**    
 (J3) S. Gong, **<span style="color: blue">X. Liu</span>**, K. Zheng, X. Tian, and Y. Zhu, [Slot-hitting ratio based TDMA schedule for hybrid energy-harvesting wireless sensor networks](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-com.2019.0977), **IET Communications**, vol. 14, no. 12, pp. 1949-1956, Jul. 2020. **(CCF-C)**    
