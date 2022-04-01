@@ -34,6 +34,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **First author/Corresponding author:**
 
+(J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location, to appear in **IET Communications**, 2022. **(CCF-C)**  
 (J12) Y. Zhang, **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.(Corresponding author)    
 (J11) K. Zheng, W. Sun, **<span style="color: blue">X. Liu</span>**, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**(Corresponding author)    
 (C2) **<span style="color: blue">X. Liu</span>**, H. Zheng, K. Zheng, and P. Hu, [Optimal transmission strategy for solar harvesting communication](https://ieeexplore.ieee.org/document/9613196), in International Conference on Wireless Communications and Signal Processing (**WCSP**), Changsha, China, Oct. 2021.  
