@@ -73,8 +73,8 @@ First Prize of Mathematics Competition for College Students of Jiangsu Province 
 
 ## Teaching
 
-212579 现代网络技术及应用  (2020-2021)  
-G126026 Fundamentals of Electronics  (2020-2021)
+212579 Modern Network Technology and Application  (2020-2022)  
+G126026 Fundamentals of Electronics  (2020-2022)
 
 ## Students
 
