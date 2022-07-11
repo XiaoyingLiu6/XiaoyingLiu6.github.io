@@ -17,6 +17,7 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 ## Services
 
+TPC member for IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
 Guest editor for Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
 TPC member for IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
 TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
