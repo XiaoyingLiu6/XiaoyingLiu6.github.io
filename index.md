@@ -36,7 +36,6 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **First author/Corresponding author:**
 
-(C3) **<span style="color: blue">X. Liu</span>**, A. Wang, B. Xu, and K. Zheng, Robustness-based transmission strategy for wireless powered communication networks, in The 17th International Conference on Wireless Algorithms, Systems, and Applications (**WASA**), Dalian, China, Aug. 2022. **(CCF-C)**     
 (J14) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Trade-offs among sensing, reporting, and transmission in cooperative
 CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.   
 (J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022. **(CCF-C)**  
