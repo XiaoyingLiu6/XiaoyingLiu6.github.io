@@ -34,10 +34,9 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 ## Publications
 
-**First author/Corresponding author:**
+**Representative publications as First author/Corresponding author:**
 
-(J14) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Trade-offs among sensing, reporting, and transmission in cooperative
-CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.   
+(J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing, to appear in **Wireless Communications and Mobile Computing**, 2022. **(CCF-C)**  
 (J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022. **(CCF-C)**  
 (J12) Y. Zhang, **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.(Corresponding author)    
 (J11) K. Zheng, W. Sun, **<span style="color: blue">X. Liu</span>**, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**(Corresponding author)    
@@ -56,6 +55,8 @@ CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 
 
 **Other publications:**
 
+(J8) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Trade-offs among sensing, reporting, and transmission in cooperative
+CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.    
 (J7) X. Jia, K. Zheng, K. Chi, and **<span style="color: blue">X. Liu</span>**, [DDPG-based throughput optimization with AoI constraint in ambient 
 backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **Sensors**, vol. 22, no. 9, p. 3262, Apr. 2022.    
 (J6) K. Zheng, H. Ge, K. Chi, and **<span style="color: blue">X. Liu</span>**, [Energy provision minimization of energy-harvesting cognitive radio networks with minimal throughput demands](https://www.sciencedirect.com/science/article/pii/S1389128621005740?via%3Dihub#d1e12229), to appear in **Computer Networks**, 2022. **(CCF-B)**    
