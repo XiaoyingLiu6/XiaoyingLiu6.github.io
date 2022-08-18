@@ -34,7 +34,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 ## Publications
 
-**Representative publications as First author/Corresponding author:**
+**Selected Publications**
 
 (J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing, to appear in **Wireless Communications and Mobile Computing**, 2022. **(CCF-C)**  
 (J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022. **(CCF-C)**  
@@ -53,7 +53,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 (J2) **<span style="color: blue">X. Liu</span>**, K. Zheng, J. Zhao, X.-Y. Liu, X. Wang, and X. Di, [Information-centric networks with correlated mobility](https://ieeexplore.ieee.org/document/7551158), **IEEE Transactions on Vehicular Technology**, vol. 66, no. 5, pp. 4256-4270, May 2017.  
 (J1) **<span style="color: blue">X. Liu</span>**, J. Zhang, L. Liu, W. Wu, X. Tian, X. Wang, W. Zhang, and J. Xu, [Network connectivity with inhomogeneous correlated mobility](https://ieeexplore.ieee.org/document/7426853), **IEEE Transactions on Wireless Communications**, vol. 15, no. 6, pp.4307-4320, Jun. 2016. **(CCF-B)**  
 
-**Other publications:**
+**Other Publications**
 
 (J9) C. Qian, K. Zheng, and **<span style="color: blue">X. Liu</span>**, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022. (Corresponding author)  
 (J8) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Trade-offs among sensing, reporting, and transmission in cooperative
