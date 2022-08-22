@@ -36,7 +36,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Selected Publications**
 
-(J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing, to appear in **Wireless Communications and Mobile Computing**, 2022. **(CCF-C)**  
+(J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**  
 (J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022. **(CCF-C)**  
 (J12) Y. Zhang, **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.(Corresponding author)    
 (J11) K. Zheng, W. Sun, **<span style="color: blue">X. Liu</span>**, D. Zhao, Y. Xu, and J. Liu, [Throughput maximisation for multi-channel energy harvesting cognitive radio networks with hybrid overlay/underlay transmission](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12347), **IET Communications**, vol. 16, no. 3, pp. 274-290, Feb. 2022. **(CCF-C)**(Corresponding author)    
