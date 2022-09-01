@@ -1,6 +1,6 @@
 <img src="2.jpg" width="100" height="142"/>
 
-**Xiaoying Liu**, Associate Professor（校聘副教授）, Master Supervisor  
+**Xiaoying Liu**, Associate Professor, Master Supervisor  
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)  
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com  
@@ -36,6 +36,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Selected Publications**
 
+(J15) **<span style="color: blue">X. Liu</span>**, B. Xu, X. Wang, K. Zheng, K. Chi, and X. Tian, Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks, to appear in **IEEE Transactions on Vehicular Technology**, 2022.   
 (J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**  
 (J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022. **(CCF-C)**  
 (J12) Y. Zhang, **<span style="color: blue">X. Liu</span>**, K. Zheng, Y. Li, and Y. Yao, [Energy-efficient multi-codebook based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), to appear in **IEEE Internet of Things Journal**, 2022.(Corresponding author)    
@@ -70,11 +71,11 @@ backscatter-assisted overlay CRN](https://www.mdpi.com/1424-8220/22/9/3262), **S
 ## Honors and rewards
 
 Best Paper Award in International Conference on Networking and Network Applications 2021  
-Awarded Outstanding graduates of Shanghai Jiao Tong University  (上海交通大学优秀毕业生) in 2018  
-Awarded National Scholarship for Graduate Students (研究生国家奖学金) in 2016  
-Awarded Outstanding graduates of Nanjing University of Science and Technology  (南京理工大学优秀毕业生) in 2013  
-Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling (第十一届“华为杯”全国研究生数学建模竞赛三等奖) in 2014  
-First Prize of Mathematics Competition for College Students of Jiangsu Province (江苏省大学生数学竞赛一等奖) in 2010  
+Awarded Outstanding graduates of Shanghai Jiao Tong University in 2018  
+Awarded National Scholarship for Graduate Students in 2016  
+Awarded Outstanding graduates of Nanjing University of Science and Technology in 2013  
+Third Prize in the 11th "Huawei Cup" National College Student Mathematical Contest In Modeling in 2014  
+First Prize of Mathematics Competition for College Students of Jiangsu Province in 2010  
 
 ## Teaching
 
@@ -96,3 +97,4 @@ Xiaodong Li (2021, Master student, co-advised with Prof. Kechen Zheng)
 Jiaxiang Xu (2022, Master student, co-advised with Prof. Kechen Zheng)  
 Junsheng Fu (2022, Master student, co-advised with Prof. Kechen Zheng)  
 Biao Zhou (2022, Master student, co-advised with Prof. Kechen Zheng)  
+Anping Chen (2022, Master student, co-advised with Prof. Kaikai Chi)  
