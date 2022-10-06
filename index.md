@@ -57,6 +57,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Other Publications**
 
+(J10) Z. Qu, Q. Jia, C. Lyu, J. Liu, **<span style="color: blue">X. Liu</span>**, and K. Zheng, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, 2022. **(CCF-C)**  
 (J9) C. Qian, K. Zheng, and **<span style="color: blue">X. Liu</span>**, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022. (Corresponding author)  
 (J8) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Trade-offs among sensing, reporting, and transmission in cooperative
 CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 13, p. 4753, Jun. 2022.    
