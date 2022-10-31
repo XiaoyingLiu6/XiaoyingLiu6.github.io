@@ -37,7 +37,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Selected Publications**
 
-(J16) **<span style="color: blue">X. Liu</span>**, A. Wang, B. Xu, K. Zheng, and X. Yao, Robustness-based transmission strategy for wireless powered communication networks, to appear in **Wireless Communications and Mobile Computing**, Article ID 2532905, 2022. **(CCF-C)**  
+(J16) **<span style="color: blue">X. Liu</span>**, A. Wang, B. Xu, K. Zheng, and X. Yao, [Robustness-based transmission strategy for wireless powered communication networks](https://www.hindawi.com/journals/wcmc/2022/2532905/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 2532905, Oct. 2022. **(CCF-C)**  
 (J15) **<span style="color: blue">X. Liu</span>**, B. Xu, X. Wang, K. Zheng, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.   
 (J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**  
 (J13) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Probability-based fusion rule in cooperative spectrum sensing with impact of geographic location](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12398), **IET Communications**, vol. 16, no. 9, pp. 963-976, Jun. 2022. **(CCF-C)**  
