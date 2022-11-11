@@ -59,7 +59,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 **Other Publications**
 
 (J12) H. Ge, K. Zheng, K. Chi, and **<span style="color: blue">X. Liu</span>**, The maximal secondary throughput in cognitive wireless networks with energy harvesting, to appear in **IET Communications**, 2022. **(CCF-C)**  
-(J11) K. Zheng, X. Jia, K. Chi, and **<span style="color: blue">X. Liu</span>**, DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs, to appear in **IEEE Transactions on Communications**, 2022. **(CCF-B)**  
+(J11) K. Zheng, X. Jia, K. Chi, and **<span style="color: blue">X. Liu</span>**, [DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs](https://ieeexplore.ieee.org/document/9945999), to appear in **IEEE Transactions on Communications**, 2022. **(CCF-B)**  
 (J10) Z. Qu, Q. Jia, C. Lyu, J. Liu, **<span style="color: blue">X. Liu</span>**, and K. Zheng, Detecting fake reviews with generative adversarial networks for mobile social networks, to appear in **Security and Communication Networks**, Article ID 1164125, 2022. **(CCF-C)**  
 (J9) C. Qian, K. Zheng, and **<span style="color: blue">X. Liu</span>**, [Delay sensitive adaptive frame aggregation scheme for uplink transmission in IEEE 802.11ax](http://xwxt.sict.ac.cn/CN/abstract/abstract6295.shtml), **Journal of Chinese Computer Systems**, vol. 43, no. 7, pp. 1529-1534, Jul. 2022. (Corresponding author)  
 (J8) **<span style="color: blue">X. Liu</span>** and K. Zheng, [Trade-offs among sensing, reporting, and transmission in cooperative
