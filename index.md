@@ -90,7 +90,7 @@ G126026 Fundamentals of Electronics  (2020-2022)
 ## Students
 
 Chenxi Qian (2018-2021, Master student, co-advised with Prof. Yi-hua Zhu, H3C)  
-Yufan Zhang (2019, PhD student, co-advised with Prof. Yi-hua Zhu)  
+Yufan Zhang (2019-2022, PhD student, co-advised with Prof. Yi-hua Zhu, Zhejiang University of Technology, post-doctor)  
 Aodi Wang (2020, Master student, co-advised with Prof. Kechen Zheng)   
 Zhongwei Lin (2020, Master student, co-advised with Prof. Yi-hua Zhu)    
 Bin Xu (2020, Master student, co-advised with Prof. Kechen Zheng)   
