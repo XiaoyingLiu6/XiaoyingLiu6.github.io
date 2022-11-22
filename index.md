@@ -37,6 +37,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Selected Publications**
 
+(J17) **<span style="color: blue">X. Liu</span>**, B. Xu, K. Zheng, and H. Zheng, Throughput maximization of wireless-powered communication network with mobile access points, to appear in **IEEE Transactions on Wireless Communications**, 2022. **(CCF-B)**   
 (J16) **<span style="color: blue">X. Liu</span>**, A. Wang, B. Xu, K. Zheng, and X. Yao, [Robustness-based transmission strategy for wireless powered communication networks](https://www.hindawi.com/journals/wcmc/2022/2532905/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 2532905, Oct. 2022. **(CCF-C)**  
 (J15) **<span style="color: blue">X. Liu</span>**, B. Xu, X. Wang, K. Zheng, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.   
 (J14) **<span style="color: blue">X. Liu</span>**, M. Xia, P. Hu, K. Zheng, and S. Zhang, [Optimal time allocation for energy harvesting cognitive radio networks with multi-channel spectrum sensing](https://www.hindawi.com/journals/wcmc/2022/3940132/), **Wireless Communications and Mobile Computing**, vol. 2022, Article ID 3940132, Aug. 2022. **(CCF-C)**  
