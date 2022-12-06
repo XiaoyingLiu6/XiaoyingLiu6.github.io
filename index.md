@@ -37,7 +37,7 @@ Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000,
 
 **Selected Publications**
 
-(J12) **<span style="color: blue">X. Liu</span>**, B. Xu, K. Zheng, and H. Zheng, Throughput maximization of wireless-powered communication network with mobile access points, to appear in **IEEE Transactions on Wireless Communications**, 2022. **(CCF-B)**   
+(J12) **<span style="color: blue">X. Liu</span>**, B. Xu, K. Zheng, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), to appear in **IEEE Transactions on Wireless Communications**, 2022. **(CCF-B)**   
 (J11) **<span style="color: blue">X. Liu</span>**, B. Xu, X. Wang, K. Zheng, K. Chi, and X. Tian, [Impacts of sensing energy and data availability on throughput of energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/9878087/), to appear in **IEEE Transactions on Vehicular Technology**, 2022.   
 (J10) Y. Zhang, **<span style="color: blue">X. Liu\*</span>**, K. Zheng, Y. Li, and Y. Yao, [Energy-efficient multicodebook-based backscatter communications for wireless powered networks](https://ieeexplore.ieee.org/document/9741298), **IEEE Internet of Things Journal**, vol. 9, no. 18, pp. 18153-18163, Sep. 2022.  (Corresponding author)    
 (C1) W. Sun,  **<span style="color: blue">X. Liu\*</span>**, K. Zheng, Y. Xu, and J. Liu, [Spectrum utilization improvement for multi-channel cognitive radio networks with energy harvesting](https://ieeexplore.ieee.org/document/9634889), in International Conference on Networking and Network Applications (**NaNA**), Lijiang City, China, Oct. 2021. (Corresponding author, **Best Paper Award**)  
