@@ -4,7 +4,7 @@
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)  
 No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com  
-Corresponding links of mine: [Homepage in Chinese](http://www.homepage.zjut.edu.cn/lxy2/); [DBLP](https://dblp.uni-trier.de/pid/96/5609-1.html); [IEEE](https://ieeexplore.ieee.org/author/37085797210); [ORCID](https://orcid.org/0000-0002-4592-0631)  
+Corresponding links of mine: [Google Scholar](https://scholar.google.com/citations?user=Ts4U3_sAAAAJ&hl=zh-CN); [Homepage in Chinese](http://www.homepage.zjut.edu.cn/lxy2/); [DBLP](https://dblp.uni-trier.de/pid/96/5609-1.html); [IEEE](https://ieeexplore.ieee.org/author/37085797210); [ORCID](https://orcid.org/0000-0002-4592-0631)  
 
 ## Education
 
