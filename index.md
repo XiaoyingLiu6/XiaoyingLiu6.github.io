@@ -17,7 +17,7 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 ## Services
 
-**Associate editor** of Springer Nature Computer Science, 2023-  
+**Associate editor** of [Springer Nature Computer Science](https://www.springer.com/journal/42979/editors), 2023-  
 Executive Committee of  CCF TCIoT (Internet of Things), 2022-  
 **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2023.  
 TPC member of IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
