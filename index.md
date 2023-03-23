@@ -19,14 +19,14 @@ Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Com
 
 **Associate editor** of Springer Nature Computer Science, 2023-  
 Executive Committee of  CCF TCIoT (Internet of Things), 2022-  
-**Guest editor** for Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2023.  
-TPC member for IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
-**Guest editor** for Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
-TPC member for IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
-TPC member for IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
+**Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614), and this special issue belongs to the section "Communications"), 2022-2023.  
+TPC member of IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
+**Guest editor** of Wireless Communications and Mobile Computing (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022, CCF-C  
+TPC member of IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
+TPC member of IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
 Chair of Session 5: Age-of-Information for MobiHoc 2021  
 Member of China Computer Federation, Member of IEEE  
-Reviewers for IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
+Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
 ## Projects
 
