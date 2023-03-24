@@ -13,7 +13,7 @@ Corresponding links of mine: [Google Scholar](https://scholar.google.com/citatio
 
 ## Research areas
 
-Green Communication, Energy Harvesting, Physical Layer Security, Cooperative Communication, Cognitive Radio Networks
+Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Learning, Cooperative Wireless Communication, Cognitive Radio Networks
 
 ## Services
 
