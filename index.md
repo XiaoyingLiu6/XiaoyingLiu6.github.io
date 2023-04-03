@@ -2,7 +2,7 @@
 
 **Xiaoying Liu**, Associate Professor, Master Supervisor  
 [School of Computer Science and Technology](http://www.software.zjut.edu.cn/), [Zhejiang University of Technology](http://www.zjut.edu.cn/)  
-No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
+Address: No. 288 Liu-He Road, Hangzhou, Zhejiang, 310023, P. R. China  
 E-mail: xiaoyingliu@zjut.edu.cn; xiaoying-liu@foxmail.com  
 Corresponding links of mine: [Google Scholar](https://scholar.google.com/citations?user=Ts4U3_sAAAAJ&hl=zh-CN); [Homepage in Chinese](http://www.homepage.zjut.edu.cn/lxy2/); [DBLP](https://dblp.uni-trier.de/pid/96/5609-1.html); [IEEE](https://ieeexplore.ieee.org/author/37085797210); [ORCID](https://orcid.org/0000-0002-4592-0631)  
 
@@ -25,7 +25,7 @@ TPC member of IEEE ICC'23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Netw
 TPC member of IEEE ICC'22 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
 TPC member of IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
 Chair of Session 5: Age-of-Information for MobiHoc 2021  
-Member of China Computer Federation, Member of IEEE  
+Member of China Computer Federation (CCF), Member of IEEE and ACM      
 Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
 ## Projects
