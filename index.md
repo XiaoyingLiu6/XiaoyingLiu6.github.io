@@ -32,10 +32,12 @@ Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireles
 
 ## Projects
 
-Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
-No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things, ¥ 100,000, 1/7.     
-No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things, ¥ 100,000, 2/7.     
-Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
+(P6) Project No. 62372412 "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3.  
+(P5) Project No. 62372413 "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4.   
+(P4) Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
+(P3) No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things, ¥ 100,000, 1/7.     
+(P2) No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things, ¥ 100,000, 2/7.     
+(P1) Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
 
 ## Publications
 
