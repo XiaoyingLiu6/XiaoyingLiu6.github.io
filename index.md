@@ -100,12 +100,12 @@ G126026 Fundamentals of Electronics  (2020-2023)
 
 ## Students
 
-Chenxi Qian (2018-2021, Master student, co-advised with Prof. Yi-hua Zhu, H3C)  
-Yufan Zhang (2019-2022, PhD student, co-advised with Prof. Yi-hua Zhu, Zhejiang University of Technology, post-doctor)  
-Aodi Wang (2020-2023, Master student, co-advised with Prof. Kechen Zheng, Industrial and Commercial Bank of China, ICBC)  
-Jiahong Wang (2020-2023, Master student, co-advised with Prof. Kechen Zheng, Tongxiang Veteran Cadres Bureau)  
-Zhongwei Lin (2020-2023, Master student, co-advised with Prof. Yi-hua Zhu, The First People’s Hospital of Hangzhou Lin’an District)     
-Bin Xu (2020-2023, Master student, co-advised with Prof. Kechen Zheng, Hangzhou Aerospace Electronic Technology Co., Ltd.)     
+Chenxi Qian (2018-2021, Master, co-advised with Prof. Yi-hua Zhu, H3C)  
+Yufan Zhang (2019-2022, PhD, co-advised with Prof. Yi-hua Zhu, Zhejiang University of Technology, post-doctor)  
+Aodi Wang (2020-2023, Master, co-advised with Prof. Kechen Zheng, Industrial and Commercial Bank of China, ICBC)  
+Jiahong Wang (2020-2023, Master, co-advised with Prof. Kechen Zheng, Tongxiang Veteran Cadres Bureau)  
+Zhongwei Lin (2020-2023, Master, co-advised with Prof. Yi-hua Zhu, The First People’s Hospital of Hangzhou Lin’an District)     
+Bin Xu (2020-2023, Master, co-advised with Prof. Kechen Zheng, Hangzhou Aerospace Electronic Technology Co., Ltd.)     
 Huihui Liu (2021, Master student, co-advised with Prof. Kechen Zheng)  
 Rongwei Luo (2021, Master student, co-advised with Prof. Kechen Zheng)  
 Xinyu Kuang (2021, Master student, co-advised with Prof. Kechen Zheng)  
