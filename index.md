@@ -9,7 +9,7 @@ Corresponding links of mine: [Google Scholar](https://scholar.google.com/citatio
 ## Education
 
 09/2009-06/2013, Nanjing University of Science and Technology, Bachelor of Information Engineering  
-09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Electronic Engineering，Supervisor: [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/)
+09/2013-06/2018, Shanghai Jiao Tong University, Ph.D. of Information and Communication Engineering，Supervisor: [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/)
 
 ## Research areas
 
