@@ -62,7 +62,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
-(C2) X. Liu, Y. Xu, J. Liu, H. Takakura, **<span style="color: blue">X. Liu</span>**, K. Zheng, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024.  
+(C2) X. Liu, Y. Xu, J. Liu, H. Takakura, **<span style="color: blue">X. Liu</span>**, K. Zheng, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J18) K. Zheng, G. Jiang, **<span style="color: blue">X. Liu</span>**, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**    
 (J17) H. Ge, K. Zheng, K. Chi, and **<span style="color: blue">X. Liu</span>**, [The maximal secondary throughput in cognitive radio networks with energy harvesting](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12543), **IET Communications**, vol. 17, no. 3, pp. 336-347, Feb. 2023.   **(CCF-C)**  
 (J16) K. Zheng, X. Jia, K. Chi, and **<span style="color: blue">X. Liu</span>**, [DDPG-based joint time and energy management in ambient backscatter-assisted hybrid underlay CRNs](https://ieeexplore.ieee.org/document/9945999), **IEEE Transactions on Communications**, vol. 71, no. 1, pp. 441-456, Jan. 2023. **(CCF-B, <span style="color: blue">ESI highly cited paper</span>)**  
