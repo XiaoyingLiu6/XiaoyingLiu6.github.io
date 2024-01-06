@@ -32,18 +32,18 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 ## Projects
 
-(P6) Project No. 62372412 "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3.  
-(P5) Project No. 62372413 "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4.   
-(P4) Project No. 61902351 "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
-(P3) No. LY21F020023 Research on Physical Layer Security for Energy Harvesting-Based Internet of Things, ¥ 100,000, 1/7.     
-(P2) No. LY21F020022 Research on multiband cooperative spectrum sensing in wireless powered Internet of Things, ¥ 100,000, 2/7.     
+(P6) Project No. 62372412, "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3.  
+(P5) Project No. 62372413, "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4.   
+(P4) Project No. 61902351, "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
+(P3) No. LY21F020023, Research on Physical Layer Security for Energy Harvesting-Based Internet of Things, ¥ 100,000, 1/7.     
+(P2) No. LY21F020022, Research on multiband cooperative spectrum sensing in wireless powered Internet of Things, ¥ 100,000, 2/7.     
 (P1) Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
 
 ## Publications
 
 **Selected Publications**
 
-(J15) K. Zheng, R. Luo, Z. Wang, **<span style="color: blue">X. Liu\*</span>**, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), to appear in **IEEE Internet of Things Journal**, 2023. (Corresponding author)    
+(J15) K. Zheng, R. Luo, Z. Wang, **<span style="color: blue">X. Liu\*</span>**, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), to appear in **IEEE Internet of Things Journal**, 2024. (Corresponding author)    
 (J14) K. Zheng, J. Wang, **<span style="color: blue">X. Liu\*</span>**, X. Yao, Y. Xu, and J. Liu, [A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/10103150), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16194-16208, Sep. 2023. (Corresponding author)  
 (J13) **<span style="color: blue">X. Liu</span>**, Z. Lin, K. Zheng, X. Yao, and J. Liu, [Optimal time allocation for backscatter-aided relay cooperative transmission in wireless-powered heterogeneous CRNs](https://ieeexplore.ieee.org/document/10103166), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16209-16224, Sep. 2023.       
 (J12) **<span style="color: blue">X. Liu</span>**, B. Xu, K. Zheng, and H. Zheng, [Throughput maximization of wireless-powered communication network with mobile access points](https://ieeexplore.ieee.org/document/9970521), **IEEE Transactions on Wireless Communications**, vol. 22, no. 7, pp. 4401-4415, Jul. 2023. **(CCF-B)**   
