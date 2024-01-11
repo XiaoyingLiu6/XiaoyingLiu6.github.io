@@ -34,8 +34,8 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 (P6) Project No. 62372412, "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3.  
 (P5) Project No. 62372413, "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4.   
-(P4) Project No. 61902351, "Energy-Saving Mechanisms for Secure Transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
-(P3) No. LY21F020023, Research on Physical Layer Security for Energy Harvesting-Based Internet of Things, ¥ 100,000, 1/7.     
+(P4) Project No. 61902351, "Energy-saving mechanisms for secure transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1.      
+(P3) No. LY21F020023, Research on physical layer security for energy harvesting-based Internet of Things, ¥ 100,000, 1/7.     
 (P2) No. LY21F020022, Research on multiband cooperative spectrum sensing in wireless powered Internet of Things, ¥ 100,000, 2/7.     
 (P1) Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
 
@@ -62,6 +62,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
+(J19) K. Zheng, J. Wang, A. Chen, W. Sun, **<span style="color: blue">X. Liu</span>**, and J. Liu,  Spectrum utilization improvement for multi-Channel EH-CRN with spectrum sensing, to appear in **IET Communications**, 2024. **(CCF-C)**(Corresponding author)  
 (C2) X. Liu, Y. Xu, J. Liu, H. Takakura, **<span style="color: blue">X. Liu</span>**, K. Zheng, and N. Shiratori, Multi-armed bandit-based secure routing in air-ground integrated networks, in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J18) K. Zheng, G. Jiang, **<span style="color: blue">X. Liu</span>**, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**    
 (J17) H. Ge, K. Zheng, K. Chi, and **<span style="color: blue">X. Liu</span>**, [The maximal secondary throughput in cognitive radio networks with energy harvesting](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12543), **IET Communications**, vol. 17, no. 3, pp. 336-347, Feb. 2023.   **(CCF-C)**  
