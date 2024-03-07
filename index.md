@@ -17,16 +17,15 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 ## Services
 
-(12) IEEE Senior Member, Member of China Computer Federation (CCF), Member of ACM  
-(11) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
-(10) PC member of MSN 2023 (The 19th International Conference on Mobility, Sensing and Networking)   
-(9) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), 2024  
-(8) **Associate editor** of [Springer Nature Computer Science](https://www.springer.com/journal/42979/editors), 2023-  
-(7) Executive Committee of  CCF TCIoT (Internet of Things), 2022-  
-(6) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
-(5) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022  
-(4) TPC member of IEEE ICC'22, 23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)  
-(3) TPC member of IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
+(11) IEEE Senior Member, Member of China Computer Federation (CCF), Member of ACM  
+(10) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
+(9) PC member of MSN 2023 (The 19th International Conference on Mobility, Sensing and Networking)   
+(8) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), 2024  
+(7) **Associate editor** of [Springer Nature Computer Science](https://www.springer.com/journal/42979/editors), 2023-  
+(6) Executive Committee of  CCF TCIoT (Internet of Things), 2022-  
+(5) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
+(4) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022  
+(3) TPC member of IEEE ICC'22, 23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
 (2) Chair of Session 5: Age-of-Information for MobiHoc 2021  
 (1) Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
