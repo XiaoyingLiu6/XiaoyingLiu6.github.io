@@ -18,7 +18,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 ## Services
 
 (12) IEEE Senior Member, Member of China Computer Federation (CCF), Member of ACM  
-(11) TPC member of SmartData 2023 (The 9th IEEE International Conference on Smart Data)  
+(11) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
 (10) PC member of MSN 2023 (The 19th International Conference on Mobility, Sensing and Networking)   
 (9) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html)  
 (8) **Associate editor** of [Springer Nature Computer Science](https://www.springer.com/journal/42979/editors), 2023-  
