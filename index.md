@@ -42,7 +42,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Selected Publications**
 
-(J16) **<span style="color: blue">X. Liu</span>**, X. Li, K. Zheng, and J. Liu, AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing, to appear in **Computer Networks**, 2024. **(CCF-B)**  
+(J16) **<span style="color: blue">X. Liu</span>**, X. Li, K. Zheng, and J. Liu, [AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing](https://www.sciencedirect.com/science/article/abs/pii/S1389128624002214?via%3Dihub), to appear in **Computer Networks**, 2024. **(CCF-B)**  
 (J15) K. Zheng, R. Luo, Z. Wang, **<span style="color: blue">X. Liu\*</span>**, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), **IEEE Internet of Things Journal**, vol. 11, no. 6, pp. 10575-10591, Mar. 2024. (Corresponding author)    
 (J14) K. Zheng, J. Wang, **<span style="color: blue">X. Liu\*</span>**, X. Yao, Y. Xu, and J. Liu, [A hybrid communication scheme for throughput maximization in backscatter-aided energy harvesting cognitive radio networks](https://ieeexplore.ieee.org/document/10103150), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16194-16208, Sep. 2023. (Corresponding author)  
 (J13) **<span style="color: blue">X. Liu</span>**, Z. Lin, K. Zheng, X. Yao, and J. Liu, [Optimal time allocation for backscatter-aided relay cooperative transmission in wireless-powered heterogeneous CRNs](https://ieeexplore.ieee.org/document/10103166), **IEEE Internet of Things Journal**, vol. 10, no. 18, pp. 16209-16224, Sep. 2023.       
