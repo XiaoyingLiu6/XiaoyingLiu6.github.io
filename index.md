@@ -66,6 +66,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
+(J20) K. Zheng, Q. Ye, K. Chi, **<span style="color: blue">X. Liu\*</span>**, A. Saad, K. Yu, S. Mumtaz, and M. Guizani, Minimization of task completion time in wireless powered mobile edge-cloud computing networks, to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
 (J19) K. Zheng, J. Wang, A. Chen, W. Sun, **<span style="color: blue">X. Liu\*</span>**, and J. Liu, [Spectrum utilization improvement for multi-channel EH-CRN with spectrum sensing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12728), to appear in **IET Communications**, 2024. **(CCF-C)**(Corresponding author)  
 (C2) X. Liu, Y. Xu, J. Liu, H. Takakura, **<span style="color: blue">X. Liu</span>**, K. Zheng, and N. Shiratori, [Multi-armed bandit-based secure routing in air-ground integrated networks](https://ieeexplore.ieee.org/abstract/document/10570955), in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
 (J18) K. Zheng, G. Jiang, **<span style="color: blue">X. Liu</span>**, K. Chi, X. Yao, and J. Liu, [DRL-based offloading for computation delay minimization in wireless-powered multi-access edge computing](https://ieeexplore.ieee.org/document/10019272), **IEEE Transactions on Communications**, vol. 71, no. 3, pp. 1755-1770, Mar. 2023. **(CCF-B)**    
@@ -128,3 +129,4 @@ Ziheng Li (2024, Master student, joint supervised by Prof. Zheng)
 Tingting Li (2024, Master student, joint supervised by Prof. Zheng)  
 Shijie Liu (2024, Master student, joint supervised by Prof. Zheng)  
 Donghang Wei (2024, Master student, joint supervised by Prof. Zheng)  
+Jiaying Kong (2024, Master student, joint supervised by Prof. Chi)  
