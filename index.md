@@ -66,6 +66,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
+(J21) Y. Lin, J. Qiu, J. Zhang, K. Zhou, K. Fang, **<span style="color: blue">X. Liu</span>**, and K. Chi, [Range expansion method for WiFi-based respiration monitoring under dynamic scenes](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202330884), to appear in **Journal of Computer Research and Development**, 2024. **(CCF-A)**  
 (J20) K. Zheng, Q. Ye, K. Chi, **<span style="color: blue">X. Liu</span>**, A. Saad, K. Yu, S. Mumtaz, and M. Guizani, [Minimization of task completion time in wireless powered mobile edge-cloud computing networks](https://ieeexplore.ieee.org/document/10636725), to appear in **IEEE Internet of Things Journal**, 2024. **(CCF-C)**  
 (J19) K. Zheng, J. Wang, A. Chen, W. Sun, **<span style="color: blue">X. Liu\*</span>**, and J. Liu, [Spectrum utilization improvement for multi-channel EH-CRN with spectrum sensing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12728), to appear in **IET Communications**, 2024. **(CCF-C)**(Corresponding author)  
 (C2) X. Liu, Y. Xu, J. Liu, H. Takakura, **<span style="color: blue">X. Liu</span>**, K. Zheng, and N. Shiratori, [Multi-armed bandit-based secure routing in air-ground integrated networks](https://ieeexplore.ieee.org/abstract/document/10570955), in IEEE Wireless Communications and Networking Conference (**WCNC**), Dubai, United Arab Emirates, Apr. 2024. **(CCF-C)**   
