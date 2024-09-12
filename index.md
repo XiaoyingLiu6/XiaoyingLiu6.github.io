@@ -45,6 +45,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Selected Publications**
 
+(J18) **<span style="color: blue">X. Liu</span>**, H. Liu, K. Zheng, J. Liu, T. Taleb, and N. Shiratori, AoI-minimal clustering, transmission and trajectory co-design for UAV-assisted WPCNs, to appear in **IEEE Transactions on Vehicular Technology**, 2024.  
 (J17) K. Zheng, R. Luo, **<span style="color: blue">X. Liu</span>**, J. Qiu, and J. Liu, [Distributed DDPG-based resource allocation for age of information minimization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10540071), **IEEE Internet of Things Journal**, vol. 11, no. 17, pp. 29102-29115, Sep. 2024. (Corresponding author)  
 (J16) **<span style="color: blue">X. Liu</span>**, X. Li, K. Zheng, and J. Liu, [AoI minimization of ambient backscatter-assisted EH-CRN with cooperative spectrum sensing](https://www.sciencedirect.com/science/article/abs/pii/S1389128624002214?via%3Dihub), **Computer Networks**, vol. 245, Article ID 110389, May 2024. **(CCF-B)**  
 (J15) K. Zheng, R. Luo, Z. Wang, **<span style="color: blue">X. Liu\*</span>**, and Y. Yao, [Short-term and long-term throughput maximization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10290972), **IEEE Internet of Things Journal**, vol. 11, no. 6, pp. 10575-10591, Mar. 2024. (Corresponding author, **<span style="color: blue">ESI highly cited paper</span>**)    
