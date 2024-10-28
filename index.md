@@ -67,6 +67,8 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
+(J24) **<span style="color: blue">X. Liu</span>**, H. Liu, B. Zhou, K. Zheng, Trajectory design and transmission
+ optimization for data freshness in UAVs-assisted WPCNs, to appear in **IET Communications**, 2024. **(CCF-C)**   
 (J23) **<span style="color: blue">X. Liu</span>**, X. Kuang, Z. Li, K. Zheng, [Joint channel allocation and transmit power control for underlay EH-CRNs: A clustering-based multi-agent DDPG approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12852), to appear in **IET Communications**, 2024. **(CCF-C)**  
 (J22) **<span style="color: blue">X. Liu</span>**, X. Kuang, Y. Chen, K. Zheng, J. Liu, [Probing-aided spectrum sensing-based hybrid access strategy for energy harvesting CRNs](https://www.sciencedirect.com/science/article/pii/S0140366424003207), **Computer Communications**, vol. 228, Article ID 107973, Dec. 2024. **(CCF-C)**  
 (J21) Y. Lin, J. Qiu, J. Zhang, K. Zhou, K. Fang, **<span style="color: blue">X. Liu</span>**, and K. Chi, [Range expansion method for WiFi-based respiration monitoring under dynamic scenes](https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202330884), to appear in **Journal of Computer Research and Development**, 2024. **(CCF-A)**  
