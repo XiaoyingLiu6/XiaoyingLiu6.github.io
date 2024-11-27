@@ -45,6 +45,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Selected Publications**
 
+(J20) **<span style="color: blue">X. Liu</span>**, J. Xu, K. Zheng, G. Zhang, J. Liu, and N. Shiratori, Throughput maximization with an AoI constraint in energy harvesting D2D-enabled cellular networks: An MSRA-TD3 approach, to appear in **IEEE Transactions on Wireless Communications**, 2024. **(CCF-B)**  
 (J19) **<span style="color: blue">X. Liu</span>**, A. Chen, K. Zheng, K. Chi, B. Yang, and T. Taleb, [Distributed computation offloading for energy provision minimization in WP-MEC networks with multiple HAPs](https://ieeexplore.ieee.org/document/10756636), to appear in **IEEE Transactions on Mobile Computing**, 2024. **(CCF-A)**  
 (J18) **<span style="color: blue">X. Liu</span>**, H. Liu, K. Zheng, J. Liu, T. Taleb, and N. Shiratori, [AoI-minimal clustering, transmission and trajectory co-design for UAV-assisted WPCNs](https://ieeexplore.ieee.org/document/10680376), to appear in **IEEE Transactions on Vehicular Technology**, 2024.  
 (J17) K. Zheng, R. Luo, **<span style="color: blue">X. Liu\*</span>**, J. Qiu, and J. Liu, [Distributed DDPG-based resource allocation for age of information minimization in mobile wireless-powered Internet of Things](https://ieeexplore.ieee.org/document/10540071), **IEEE Internet of Things Journal**, vol. 11, no. 17, pp. 29102-29115, Sep. 2024. (Corresponding author)  
