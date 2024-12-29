@@ -33,7 +33,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 (1) Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
 ## Projects
-(P7) No. RF-B2024002, "Age of information-based joint coordination of energy-spectrum-data in wireless powered Internet of Things" supported by Fundamental Research Funds for the Provincial Universities of Zhejiang, ¥ 300,000, 1/4, 2024-2027)  
+(P7) No. RF-B2024002, "Age of information-based joint coordination of energy-spectrum-data in wireless powered Internet of Things" supported by Fundamental Research Funds for the Provincial Universities of Zhejiang, ¥ 300,000, 1/4, 2024-2027.  
 (P6) Project No. 62372412, "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3, 2024-2027.  
 (P5) Project No. 62372413, "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4, 2024-2027.   
 (P4) Project No. 61902351, "Energy-saving mechanisms for secure transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1, 2020-2022.      
