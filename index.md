@@ -69,7 +69,6 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
-(J25) Y. Xu, K. Zheng, **<span style="color: blue">X. Liu</span>**, Z. Li, J. Liu, Cognitive radio networks: Technologies, challenges and applications, to appear in **Sensors**, 2025.  
 (J24) **<span style="color: blue">X. Liu</span>**, H. Liu, B. Zhou, K. Zheng, [Trajectory design and transmission
  optimization for data freshness in UAVs-assisted WPCNs](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12860), **IET Communications**, vol. 18, no. 19, pp. 1650-1663, Dec. 2024. **(CCF-C)**   
 (J23) **<span style="color: blue">X. Liu</span>**, X. Kuang, Z. Li, K. Zheng, [Joint channel allocation and transmit power control for underlay EH-CRNs: A clustering-based multi-agent DDPG approach](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12852), **IET Communications**, vol. 18, no. 19, pp. 1574-1587, Dec. 2024. **(CCF-C)**  
