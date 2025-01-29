@@ -25,7 +25,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 (9) **Associate editor** of [Springer Nature Computer Science](https://www.springer.com/journal/42979/editors), 2023-  
 (8) Executive Committee of  CCF TCIoT (Internet of Things), 2022-  
 (7) **Guest editor** of Sensors (Special Issue: [Technologies, Challenges, Applications, and Emerging Trends in Sensor-Enabled Embedded and Ubiquitous Computing](https://www.mdpi.com/journal/sensors/special_issues/21239T4O3Y)), 2024-   
-(6) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges, and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
+(6) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
 (5) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022   
 (4) TPC member of IEEE Globecom 2024 - NGNI (Next-Generation Networking and Internet)  
 (3) TPC member of IEEE ICC'22, 23 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC’20 - MWN Symposium (Mobile and Wireless Networks)  
