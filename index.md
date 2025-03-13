@@ -69,7 +69,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
-(J26) K. Zheng, J. Fu, and **<span style="color: blue">X. Liu\*</span>**, Relay selection and deployment for NOMA enabled multi-UAV-assisted WSN, to appear in **IEEE Sensors Journal**, 2025.  
+(J26) K. Zheng, J. Fu, and **<span style="color: blue">X. Liu\*</span>**, Relay selection and deployment for NOMA enabled multi-UAV-assisted WSN, to appear in **IEEE Sensors Journal**, 2025. (Corresponding author)    
 (J25)	J. Liu, X. Li, Y. Xu, C. Lyu, Y. Wang, and **<span style="color: blue">X. Liu</span>**, [Hedonic coalition formation game and contract-based federated learning in UAV-assisted Internet of Things](https://ieeexplore.ieee.org/document/10896670/), to appear in **IEEE Internet of Things Journal**, 2025. **(CCF-C)**   
 (J24) **<span style="color: blue">X. Liu</span>**, H. Liu, B. Zhou, K. Zheng, [Trajectory design and transmission
  optimization for data freshness in UAVs-assisted WPCNs](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cmu2.12860), **IET Communications**, vol. 18, no. 19, pp. 1650-1663, Dec. 2024. **(CCF-C)**   
