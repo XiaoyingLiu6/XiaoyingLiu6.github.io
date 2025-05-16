@@ -69,7 +69,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
-(J27) **<span style="color: blue">X. Liu</span>**, B. Zhou, X. Tian, W. Gong, and K. Zheng, [Energy consumption minimization for delay-sensitive data collection in AAVs-assisted WSN](https://ieeexplore.ieee.org/document/10967099), to appear in **IEEE Sensors Journal**, 2025.  
+(J27) **<span style="color: blue">X. Liu</span>**, B. Zhou, X. Tian, W. Gong, and K. Zheng, [Energy consumption minimization for delay-sensitive data collection in AAVs-assisted WSN](https://ieeexplore.ieee.org/document/10967099), **IEEE Sensors Journal**, vol. 25, no. 10, pp. 18394-18408, May 2025.  
 (J26) K. Zheng, J. Fu, and **<span style="color: blue">X. Liu\*</span>**, [Relay selection and deployment for NOMA-enabled multi-AAV-assisted WSN](https://ieeexplore.ieee.org/document/10938097), **IEEE Sensors Journal**, vol. 25, no. 9, pp. 16235-16249, May 2025. (Corresponding author)     
 (J25)	J. Liu, X. Li, Y. Xu, C. Lyu, Y. Wang, and **<span style="color: blue">X. Liu</span>**, [Hedonic coalition formation game and contract-based federated learning in AAV-assisted Internet of Things](https://ieeexplore.ieee.org/document/10896670/), **IEEE Internet of Things Journal**, vol. 12, no. 9, pp. 11258-11272, May 2025. **(CCF-C)**   
 (J24) **<span style="color: blue">X. Liu</span>**, H. Liu, B. Zhou, K. Zheng, [Trajectory design and transmission
