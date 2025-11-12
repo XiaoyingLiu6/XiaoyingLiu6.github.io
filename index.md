@@ -45,6 +45,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Selected Publications**
 
+(J21) **<span style="color: blue">X. Liu</span>**, H. Wang, K. Zheng, and K. Chi, Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks, **IEEE Internet of Things Journal**, to appear in 2025.  
 (J20) **<span style="color: blue">X. Liu</span>**, J. Xu, K. Zheng, G. Zhang, J. Liu, and N. Shiratori, [Throughput maximization with an AoI constraint in energy harvesting D2D-enabled cellular networks: An MSRA-TD3 approach](https://ieeexplore.ieee.org/document/10791438), **IEEE Transactions on Wireless Communications**, vol. 24, no. 2, pp. 1448-1466, Feb. 2025. **(CCF-B, <span style="color: blue">ESI highly cited paper</span>)**  
 (J19) **<span style="color: blue">X. Liu</span>**, A. Chen, K. Zheng, K. Chi, B. Yang, and T. Taleb, [Distributed computation offloading for energy provision minimization in WP-MEC networks with multiple HAPs](https://ieeexplore.ieee.org/document/10756636), **IEEE Transactions on Mobile Computing**, vol. 24, no. 4, pp. 2673-2689, Apr. 2025. **(CCF-A, <span style="color: blue">ESI highly cited paper</span>, <span style="color: blue">ESI hot paper</span>)**   
 (J18) **<span style="color: blue">X. Liu</span>**, H. Liu, K. Zheng, J. Liu, T. Taleb, and N. Shiratori, [AoI-minimal clustering, transmission and trajectory co-design for UAV-assisted WPCNs](https://ieeexplore.ieee.org/document/10680376), **IEEE Transactions on Vehicular Technology**, vol. 74, no. 1, pp. 1035-1051, Jan. 2025. (**<span style="color: blue">ESI highly cited paper</span>**, **<span style="color: blue">ESI hot paper</span>**)    
@@ -141,3 +142,9 @@ Tingting Li (2024, Master student, co-advised with Prof. Zheng)
 Shijie Liu (2024, Master student, co-advised with Prof. Zheng)  
 Donghang Wei (2024, Master student, co-advised with Prof. Zheng)  
 Jiaying Kong (2024, Master student, co-advised with Prof. Chi)  
+Wangbin Zhang (2025, Master student, co-advised with Prof. Zheng)  
+Yu Peng (2025, Master student, co-advised with Prof. Zheng)  
+Hangfeng Lu (2025, Master student, co-advised with Prof. Zheng)  
+Zhihao Shi (2025, Master student, co-advised with Prof. Zheng)  
+Haojie Zhang (2025, Master student, co-advised with Prof. Zheng)  
+Yuanhang He (2025, Master student, co-advised with Prof. Zheng)  
