@@ -28,7 +28,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 (6) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
 (5) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022   
 (4) TPC member of IEEE Globecom 2024, 2025 - NGNI (Next-Generation Networking and Internet)  
-(3) TPC member of IEEE ICC 2022, 2023 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC 2020 - MWN Symposium (Mobile and Wireless Networks)  
+(3) TPC member of IEEE ICC 2022, 2023 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC 2020, 2026 - MWN Symposium (Mobile and Wireless Networks)  
 (2) Chair of Session 5: Age-of-Information for MobiHoc 2021  
 (1) Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
@@ -45,7 +45,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Selected Publications**
 
-(J21) **<span style="color: blue">X. Liu</span>**, H. Wang, K. Zheng, and K. Chi, Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks, **IEEE Internet of Things Journal**, to appear in 2025.  
+(J21) **<span style="color: blue">X. Liu</span>**, H. Wang, K. Zheng, and K. Chi, [Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks](https://ieeexplore.ieee.org/document/11250688), **IEEE Internet of Things Journal**, to appear in 2025.  
 (J20) **<span style="color: blue">X. Liu</span>**, J. Xu, K. Zheng, G. Zhang, J. Liu, and N. Shiratori, [Throughput maximization with an AoI constraint in energy harvesting D2D-enabled cellular networks: An MSRA-TD3 approach](https://ieeexplore.ieee.org/document/10791438), **IEEE Transactions on Wireless Communications**, vol. 24, no. 2, pp. 1448-1466, Feb. 2025. **(CCF-B, <span style="color: blue">ESI highly cited paper</span>)**  
 (J19) **<span style="color: blue">X. Liu</span>**, A. Chen, K. Zheng, K. Chi, B. Yang, and T. Taleb, [Distributed computation offloading for energy provision minimization in WP-MEC networks with multiple HAPs](https://ieeexplore.ieee.org/document/10756636), **IEEE Transactions on Mobile Computing**, vol. 24, no. 4, pp. 2673-2689, Apr. 2025. **(CCF-A, <span style="color: blue">ESI highly cited paper</span>, <span style="color: blue">ESI hot paper</span>)**   
 (J18) **<span style="color: blue">X. Liu</span>**, H. Liu, K. Zheng, J. Liu, T. Taleb, and N. Shiratori, [AoI-minimal clustering, transmission and trajectory co-design for UAV-assisted WPCNs](https://ieeexplore.ieee.org/document/10680376), **IEEE Transactions on Vehicular Technology**, vol. 74, no. 1, pp. 1035-1051, Jan. 2025. (**<span style="color: blue">ESI highly cited paper</span>**, **<span style="color: blue">ESI hot paper</span>**)    
