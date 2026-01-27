@@ -35,9 +35,9 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 ## Projects
 (P8) No. LZ26F010008, "Research on intelligent edge computing and resource allocation for unmanned aerial vehicles-assisted Internet of Things" supported by Zhejiang Provincial Natural Science Foundation of China, ¥ 300,000, 2/7, 2026-2028.  
 (P7) No. RF-B2024002, "Age of information-based joint coordination of energy-spectrum-data in wireless powered Internet of Things" supported by Fundamental Research Funds for the Provincial Universities of Zhejiang, ¥ 300,000, 1/4, 2024-2027.  
-(P6) Project No. 62372412, "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3, 2024-2027.  
-(P5) Project No. 62372413, "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4, 2024-2027.   
-(P4) Project No. 61902351, "Energy-saving mechanisms for secure transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1, 2020-2022.      
+(P6) No. 62372412, "Research on resource optimization and transmission mechanism for wireless powered IoT based on information freshness" supported by NSFC, ¥ 500,000, 1/3, 2024-2027.  
+(P5) No. 62372413, "Research on mode construction and cooperative transmission mechanism of symbiotic radio networks" supported by NSFC, ¥ 500,000, 2/4, 2024-2027.   
+(P4) No. 61902351, "Energy-saving mechanisms for secure transmission in Internet of Things" supported by NSFC, ¥ 260,000, 1/1, 2020-2022.      
 (P3) No. LY21F020023, "Research on physical layer security for energy harvesting-based Internet of Things" supported by Zhejiang Provincial Natural Science Foundation of China, ¥ 100,000, 1/7, 2021-2023.     
 (P2) No. LY21F020022, "Research on multiband cooperative spectrum sensing in wireless powered Internet of Things" supported by Zhejiang Provincial Natural Science Foundation of China, ¥ 100,000, 2/7, 2021-2023.     
 (P1) Scientific Research Foundation of Zhejiang University of Technology, ¥ 100,000, 1/1.
