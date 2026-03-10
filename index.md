@@ -46,6 +46,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Selected Publications**
 
+(J23) **<span style="color: blue">X. Liu</span>**, J. Zheng, K. Zheng, J. Liu, T. Taleb, and N. Shiratori, AoI minimization in heterogeneous MEC networks: A federated learning-assisted hybrid DRL and convex approach, to appear in **IEEE Transactions on Mobile Computing**, 2026. **(CCF-A)**  
 (J22) K. Zheng, Z. Li, **<span style="color: blue">X. Liu\*</span>**, J. Liu, T. Taleb, and N. Shiratori, [Throughput maximization for backscatter communication in cell-free symbiotic radio networks with hybrid CSR-PSR](https://ieeexplore.ieee.org/document/11367643), **IEEE Internet of Things Journal**, to appear in 2026.  (Corresponding author)  
 (J21) **<span style="color: blue">X. Liu</span>**, H. Wang, K. Zheng, and K. Chi, [Throughput maximization of IoT transmission in STAR-RIS-aided symbiotic radio networks](https://ieeexplore.ieee.org/document/11250688), **IEEE Internet of Things Journal**, vol. 13, no. 2, pp. 3371-3388, Jan. 2026.    
 (J20) **<span style="color: blue">X. Liu</span>**, J. Xu, K. Zheng, G. Zhang, J. Liu, and N. Shiratori, [Throughput maximization with an AoI constraint in energy harvesting D2D-enabled cellular networks: An MSRA-TD3 approach](https://ieeexplore.ieee.org/document/10791438), **IEEE Transactions on Wireless Communications**, vol. 24, no. 2, pp. 1448-1466, Feb. 2025. **(CCF-B, <span style="color: blue">ESI highly cited paper</span>)**  
