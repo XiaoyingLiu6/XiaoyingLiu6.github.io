@@ -75,7 +75,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 
 **Other Publications**
 
-(B1) J. Liu, K. Zheng, **<span style="color: blue">X. Liu</span>**,  Z. Li, and Y. Xu, [Cognitive radio networks: Technologies, challenges and applications](https://www.mdpi.com/books/reprint/12812-cognitive-radio-networks), **MDPI**, 2026.   
+(B1) J. Liu, K. Zheng, **<span style="color: blue">X. Liu</span>**,  Z. Li, and Y. Xu, [Cognitive radio networks: Technologies, challenges and applications](https://www.mdpi.com/books/reprint/12812-cognitive-radio-networks), **MDPI**, 2026.  
 (J28) **<span style="color: blue">X. Liu</span>**, B. Zhou, X. Tian, W. Gong, and K. Zheng, [Energy consumption minimization for delay-sensitive data collection in AAVs-assisted WSN](https://ieeexplore.ieee.org/document/10967099), **IEEE Sensors Journal**, vol. 25, no. 10, pp. 18394-18408, May 2025.  
 (J27) K. Zheng, J. Fu, and **<span style="color: blue">X. Liu\*</span>**, [Relay selection and deployment for NOMA-enabled multi-AAV-assisted WSN](https://ieeexplore.ieee.org/document/10938097), **IEEE Sensors Journal**, vol. 25, no. 9, pp. 16235-16249, May 2025. (Corresponding author, **<span style="color: blue">ESI highly cited paper</span>**, **<span style="color: blue">ESI hot paper</span>**)     
 (J26)	J. Liu, X. Li, Y. Xu, C. Lyu, Y. Wang, and **<span style="color: blue">X. Liu</span>**, [Hedonic coalition formation game and contract-based federated learning in AAV-assisted Internet of Things](https://ieeexplore.ieee.org/document/10896670/), **IEEE Internet of Things Journal**, vol. 12, no. 9, pp. 11258-11272, May 2025. **(CCF-C)**   
