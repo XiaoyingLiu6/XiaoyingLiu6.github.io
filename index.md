@@ -21,7 +21,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 (15) TPC member of WCSP 2026 (International Conference on Wireless Communications and Signal Processing)  
 (14) TPC member of IEEE SustainCom 2024 (IEEE International Conference on Sustainable Computing and Communications)    
 (13) TPC member of SmartData 2023, 2024 (IEEE International Conference on Smart Data)  
-(12) PC member of MSN 2023 (The 19th International Conference on Mobility, Sensing and Networking)   
+(12) PC member of MSN 2023 (International Conference on Mobility, Sensing and Networking)   
 (11) ACM China Young Scholar Academy Forum Chair of [ACM TURC 2023](https://www.acmturc.com/2023/cn/index.html), [ACM TURC 2024](https://www.acmturc.com/2024/#/index)  
 (10) **Associate editor** of [Springer Nature Computer Science](https://www.springer.com/journal/42979/editors), 2023-  
 (9) Executive Committee of CCF TCIoT (Internet of Things), 2022-  
