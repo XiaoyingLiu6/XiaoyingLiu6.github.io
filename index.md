@@ -115,6 +115,7 @@ CRNs](https://www.mdpi.com/1424-8220/22/13/4753/htm), **Sensors**, vol. 22, no. 
 
 ## Honors and rewards
 
+World’s Top 2% Scientists (Stanford University and Elsevier), Single-year Impact, 2026  
 2024 Zhejiang Provincial Natural Science Award (Third Prize, 1/4)   
 Best Paper Award in International Conference on Networking and Network Applications 2021  
 Awarded Outstanding graduates of Shanghai Jiao Tong University in 2018  
