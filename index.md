@@ -30,7 +30,7 @@ Internet of Things, Age of Information, Energy Harvesting, Deep Reinforcement Le
 (6) **Guest editor** of Sensors (Special Issue: [Cognitive Radio Networks: Technologies, Challenges and Applications](https://www.mdpi.com/journal/sensors/special_issues/LMGJ4IH614)), 2022-2024.  
 (5) **Guest editor** of WCMC (Special Issue: [Next-Generation Wireless Networks Communication Sustainability, Efficiency, and Security from a Physical Layer Perspective](https://www.hindawi.com/journals/wcmc/si/635205/)), 2022   
 (4) TPC member of IEEE Globecom 2024-2026 - NGNI (Next-Generation Networking and Internet),  IEEE Globecom 2026 - CECN (Cloud/Edge Computing and Networking)    
-(3) TPC member of IEEE ICC 2022, 2023 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC 2020, 2026, 2027 - MWN Symposium (Mobile and Wireless Networks)  
+(3) TPC member of IEEE ICC 2022, 2023, 2027 - CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE ICC 2020, 2026, 2027 - MWN Symposium (Mobile and Wireless Networks)  
 (2) Chair of Session 5: Age-of-Information for MobiHoc 2021  
 (1) Reviewers of IEEE Transactions on Mobile Computing, IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Transactions on Vehicular Technology, Computer Networks, and so on.
 
